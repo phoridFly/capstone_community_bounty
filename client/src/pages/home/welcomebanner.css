@@ -1,0 +1,88 @@
+ 
+.bgimg-1, .bgimg-2, .bgimg-3 {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+
+  .bgimg-1 {
+    background-image: url("https://storage.googleapis.com/imagerybucket/beets.jpg");
+    min-height: 100%;
+  }
+  
+  .bgimg-2 {
+    background-image: url("https://storage.googleapis.com/imagerybucket/vegetable%20_layout.jpg");
+    min-height: 400px;
+  }
+  
+  .bgimg-3 {
+    background-image: url("https://storage.googleapis.com/imagerybucket/vegetable%20_layout.jpg");
+    min-height: 400px;
+  }
+
+  .caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+  }
+  
+  .top {
+    background-color:transparent;
+    font-size:25px;
+    color: #f7f7f7;
+
+  }
+
+  .credit{
+    text-align:"right";
+    font-family: 'Lora', serif;
+    font-size:15px;
+  }
+
+  .secondary{
+    color:#F7EEE9;
+    background-color:#6A7B76;
+    text-align:center;
+    padding:50px 80px;
+    text-align: center;
+    font-family: 'Lora', serif;
+  }
+  .relative{
+    position:relative;
+  }
+  .special {
+    background-color:transparent;
+    font-size:25px;
+    color: #f7f7f7; 
+  }
+  .primary{
+    color: #777;
+    background-color:white;
+    text-align:center;
+    padding:50px 80px;
+    text-align: justify;
+    font-family: 'Lora', serif;
+  }
+  .caption span.rest span.border{
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+  }
+
+ .h2{
+  text-align: center;
+ }
+  /* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+      background-attachment: scroll;
+    }
+  }

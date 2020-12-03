@@ -1,0 +1,49 @@
+#root .MuiListItemText-root {
+    flex: 1 1 30%;
+}
+
+#root .MuiListItemText-root.name-col {
+    flex: 2 1 50%;
+}
+
+
+.ScrollStyle
+{
+    max-height: 700px;
+    overflow-y: scroll;
+}
+
+.ScrollStyleTwo
+{
+    max-height: 150px;
+    overflow-y: scroll;
+}
+
+
+
+.centerMe{
+    text-align: center;
+}
+
+/* tab bar */
+.tabClass  {
+    background-color: #d1d1d1;
+}
+
+/* tab hover */
+.tabClass li.nav-item .nav-link:hover {
+    background-color: cadetblue; 
+}
+/* inactive */
+.tabClass .nav-item .nav-link {
+    background-color: #aaa9a9;
+    color: rgb(92, 91, 91);
+}
+
+/* active */
+.tabClass .nav-item a.active.nav-link {
+    background-color:  #6A7B76;
+    color: whitesmoke;
+}
+
+
