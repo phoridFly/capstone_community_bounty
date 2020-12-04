@@ -32,323 +32,323 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Git and GitHub](#_9axi0y4ta0gg) 
 
-**[Data Model](#_rsj1t094h4qr) **
+**[Data Model](#_rsj1t094h4qr)**
 
 [Collection: People](#_9tsd9tukcd5f) 
 
 [Collection: Addresses](#_787j5s565vnz) 
 
-[Collection: Contacts](#_vrxxlrfc32h) 13
+[Collection: Contacts](#_vrxxlrfc32h)
 
-[Collection: Profiles](#_z06jogug6ak) 14
+[Collection: Profiles](#_z06jogug6ak) 
 
-[Collection: Solicitations](#_2o6i7aa8230) 14
+[Collection: Solicitations](#_2o6i7aa8230) 
 
-[Collection: Transactions](#_v3pneua7dycr) 15
+[Collection: Transactions](#_v3pneua7dycr) 
 
-[Collection: Items](#_lgs5em1tgb97) 16
+[Collection: Items](#_lgs5em1tgb97) 
 
-**[API Specification](#_mv3no7w6243h) 17**
+**[API Specification](#_mv3no7w6243h)**
 
-**[People Routes](#_4gw2arade3ox) 17**
+**[People Routes](#_4gw2arade3ox)**
 
-[Create Person](#_w9lh0fpiwb54) 17
+[Create Person](#_w9lh0fpiwb54) 
 
-[Request](#_6osgkzritovv) 17
+[Request](#_6osgkzritovv) 
 
-[Response](#_9u5pfke291p3) 18
+[Response](#_9u5pfke291p3) 
 
-[Add Image to Person](#_y5nnf9jfj452) 19
+[Add Image to Person](#_y5nnf9jfj452) 
 
-[Request](#_m5z6gsnxrxxd) 20
+[Request](#_m5z6gsnxrxxd) 
 
-[Response](#_rzrnb82nt8bo) 20
+[Response](#_rzrnb82nt8bo) 
 
-[View Person](#_vtdzuvuy3mke) 21
+[View Person](#_vtdzuvuy3mke) 
 
-[Request](#_p1v0887n9lx6) 21
+[Request](#_p1v0887n9lx6) 
 
-[Response](#_8dm8eihrivhk) 22
+[Response](#_8dm8eihrivhk) 
 
-[View All People](#_rj04m6uqyn4f) 23
+[View All People](#_rj04m6uqyn4f) 
 
-[Request](#_q3sjdpjtxqof) 23
+[Request](#_q3sjdpjtxqof) 
 
-[Response](#_tzjh5p663wst) 23
+[Response](#_tzjh5p663wst) 
 
-[Check If a Person Exists](#_cr4cnddah1xi) 25
+[Check If a Person Exists](#_cr4cnddah1xi) 
 
-[Request](#_dfjv1yoms8t7) 25
+[Request](#_dfjv1yoms8t7) 
 
-[Response](#_tl52yjxvv4yx) 25
+[Response](#_tl52yjxvv4yx) 
 
-[Update Person](#_8hy4anyvgtjs) 26
+[Update Person](#_8hy4anyvgtjs) 
 
-[Request](#_q1yuam29s4sy) 27
+[Request](#_q1yuam29s4sy) 
 
-[Response](#_grldj6os3i46) 27
+[Response](#_grldj6os3i46) 
 
-[Delete Person](#_8hzkechze8el) 28
+[Delete Person](#_8hzkechze8el) 
 
-[Request](#_qyymf46nhz3z) 28
+[Request](#_qyymf46nhz3z) 
 
-[Response](#_o31su6snggdb) 29
+[Response](#_o31su6snggdb) 
 
-**[Transactions Routes](#_d8bpx3nse3ig) 30**
+**[Transactions Routes](#_d8bpx3nse3ig)**
 
-[Create a Transaction](#_jr7srqex2p0d) 30
+[Create a Transaction](#_jr7srqex2p0d) 
 
-[Request](#_rc0d3ykfwpam) 30
+[Request](#_rc0d3ykfwpam) 
 
-[Response](#_5e6tcel1i901) 31
+[Response](#_5e6tcel1i901) 
 
-[View a Transaction](#_4xlgj0epn759) 32
+[View a Transaction](#_4xlgj0epn759) 
 
-[Request](#_jq503dawvyt) 32
+[Request](#_jq503dawvyt) 
 
-[Response](#_lis6llcc4q2a) 33
+[Response](#_lis6llcc4q2a) 
 
-[View All Transactions](#_yelg2dh0quff) 34
+[View All Transactions](#_yelg2dh0quff) 
 
-[Request](#_u26h40brwlb5) 34
+[Request](#_u26h40brwlb5) 
 
-[Response](#_1r1dkux21gg5) 35
+[Response](#_1r1dkux21gg5) 
 
-[View All Transactions For a Buyer](#_n7lzvc614ywu) 36
+[View All Transactions For a Buyer](#_n7lzvc614ywu) 
 
-[Request](#_jjnouvuyl0nx) 37
+[Request](#_jjnouvuyl0nx) 
 
-[Response](#_1b6syibk0nfm) 37
+[Response](#_1b6syibk0nfm) 
 
-[View All Transactions For a Seller](#_cbceyd80e5ud) 38
+[View All Transactions For a Seller](#_cbceyd80e5ud) 
 
-[Request](#_vqnqeh8uy7m) 38
+[Request](#_vqnqeh8uy7m) 
 
-[Response](#_lu1h6g57xba) 39
+[Response](#_lu1h6g57xba) 
 
-[Update a Transaction](#_9bso4di9z4m9) 40
+[Update a Transaction](#_9bso4di9z4m9) 
 
-[Request](#_y1pzvhyz39hq) 41
+[Request](#_y1pzvhyz39hq) 
 
-[Response](#_giqydmsdpyst) 42
+[Response](#_giqydmsdpyst) 
 
-[Insert a Message into a Transaction](#_pjtgsqul4oqv) 42
+[Insert a Message into a Transaction](#_pjtgsqul4oqv) 
 
-[Request](#_uzl5dzvwwjk2) 43
+[Request](#_uzl5dzvwwjk2) 
 
-[Response](#_v0i821cvbxk9) 43
+[Response](#_v0i821cvbxk9) 
 
-[Delete a Message from a Transaction](#_oyq1evl5d1is) 45
+[Delete a Message from a Transaction](#_oyq1evl5d1is) 
 
-[Request](#_hun29a1du0oc) 45
+[Request](#_hun29a1du0oc) 
 
-[Response](#_jw6cvdmjayqt) 45
+[Response](#_jw6cvdmjayqt) 
 
-[Delete Transaction](#_ntvb2z3ijd7i) 46
+[Delete Transaction](#_ntvb2z3ijd7i) 
 
-[Request](#_9rasnerpesvf) 46
+[Request](#_9rasnerpesvf) 
 
-[Response](#_tpqh4916y71m) 47
+[Response](#_tpqh4916y71m) 
 
-**[Addresses Routes](#_wzfu83dhlcgw) 48**
+**[Addresses Routes](#_wzfu83dhlcgw)**
 
-[Create an Address](#_s3z3bryp01ld) 48
+[Create an Address](#_s3z3bryp01ld) 
 
-[Request](#_qfjsg38frcq2) 48
+[Request](#_qfjsg38frcq2) 
 
-[Response](#_4qu4yd4nw8u5) 49
+[Response](#_4qu4yd4nw8u5) 
 
-[View an Address](#_2gim3mp5nbg6) 50
+[View an Address](#_2gim3mp5nbg6) 
 
-[Request](#_8unb5ketd1mk) 50
+[Request](#_8unb5ketd1mk) 
 
-[Response](#_5wlf9m9uq2of) 51
+[Response](#_5wlf9m9uq2of) 
 
-[View All Addresses](#_34mkcx2x43rm) 52
+[View All Addresses](#_34mkcx2x43rm) 
 
-[Request](#_bl4wnai21yij) 52
+[Request](#_bl4wnai21yij) 
 
-[Response](#_e2kp2uhlgobz) 52
+[Response](#_e2kp2uhlgobz) 
 
-[View Address By Person Sub](#_6675525nyoo2) 54
+[View Address By Person Sub](#_6675525nyoo2) 
 
-[Request](#_hxmgzngfgzff) 54
+[Request](#_hxmgzngfgzff) 
 
-[Response](#_w841to5krudx) 54
+[Response](#_w841to5krudx) 
 
-[Get Addresses Within a Specified Radius](#_hxb9vb5c48c7) 56
+[Get Addresses Within a Specified Radius](#_hxb9vb5c48c7) 
 
-[Request](#_ixhasjqo96az) 56
+[Request](#_ixhasjqo96az) 
 
-[Response](#_3e3nyrno95o) 56
+[Response](#_3e3nyrno95o) 
 
-[Delete Address](#_dlker3ckzvug) 57
+[Delete Address](#_dlker3ckzvug) 
 
-[Request](#_yfja229520t6) 57
+[Request](#_yfja229520t6) 
 
-[Response](#_ze8939dju0v4) 58
+[Response](#_ze8939dju0v4) 
 
-[Create Default Address for a Person](#_7lf54npu1ct7) 59
+[Create Default Address for a Person](#_7lf54npu1ct7) 
 
-[Request](#_16dwsjjmw1j5) 59
+[Request](#_16dwsjjmw1j5) 
 
-[Response](#_p5b8dcow22m6) 59
+[Response](#_p5b8dcow22m6) 
 
-**[Profiles Routes](#_qkzuag8hhxhf) 61**
+**[Profiles Routes](#_qkzuag8hhxhf)**
 
-[Create Profile](#_uq2up8ytau0x) 61
+[Create Profile](#_uq2up8ytau0x) 
 
-[Request](#_s0ls1j2pwp2n) 61
+[Request](#_s0ls1j2pwp2n) 
 
-[Response](#_hwrpqzp48hno) 62
+[Response](#_hwrpqzp48hno) 
 
-[Check If Profile Exists](#_rldowijvf50b) 63
+[Check If Profile Exists](#_rldowijvf50b) 
 
-[Request](#_79nqvl7iwtv) 63
+[Request](#_79nqvl7iwtv) 
 
-[Response](#_o0syccw5r1gf) 63
+[Response](#_o0syccw5r1gf) 
 
-[View a Single Profile](#_98li3xcxqeew) 64
+[View a Single Profile](#_98li3xcxqeew) 
 
-[Request](#_gpz33a3mea1u) 64
+[Request](#_gpz33a3mea1u) 
 
-[Response](#_p1uuf68dnuh3) 65
+[Response](#_p1uuf68dnuh3) 
 
-[View All Profiles](#_3y37ws8jief) 66
+[View All Profiles](#_3y37ws8jief) 
 
-[Request](#_e3i0ubypsypo) 66
+[Request](#_e3i0ubypsypo) 
 
-[Response](#_blf7o9ekoknq) 66
+[Response](#_blf7o9ekoknq) 
 
-[Update Profile](#_dspimm8xj6xf) 68
+[Update Profile](#_dspimm8xj6xf) 
 
-[Request](#_k8l9199uiwhh) 68
+[Request](#_k8l9199uiwhh) 
 
-[Response](#_jd85v2rzlg78) 68
+[Response](#_jd85v2rzlg78) 
 
-[Add an Item to Watchlist in Profile](#_1wua4834d6tp) 69
+[Add an Item to Watchlist in Profile](#_1wua4834d6tp) 
 
-[Request](#_k7008jqar14e) 69
+[Request](#_k7008jqar14e) 
 
-[Response](#_wid0nn25r2ip) 70
+[Response](#_wid0nn25r2ip) 
 
-[View a Profile&#39;s Watchlist](#_y8wy0ucfx0js) 70
+[View a Profile&#39;s Watchlist](#_y8wy0ucfx0js) 
 
-[Request](#_l01lilmba6ld) 70
+[Request](#_l01lilmba6ld) 
 
-[Response](#_gbni1jv85qv9) 71
+[Response](#_gbni1jv85qv9) 
 
-[Delete a Watchlist Item](#_gsae112m2pbj) 72
+[Delete a Watchlist Item](#_gsae112m2pbj) 
 
-[Request](#_7eh5b193pwg3) 72
+[Request](#_7eh5b193pwg3) 
 
-[Response](#_v4wy4h1ulis6) 73
+[Response](#_v4wy4h1ulis6) 
 
-[Delete Profile](#_bqf8qn3tcp8b) 74
+[Delete Profile](#_bqf8qn3tcp8b) 
 
-[Request](#_lan49em1ku35) 74
+[Request](#_lan49em1ku35) 
 
-[Response](#_b38ra5lw79lp) 74
+[Response](#_b38ra5lw79lp) 
 
-**[Items Routes](#_jp6lo731i8ml) 75**
+**[Items Routes](#_jp6lo731i8ml)**
 
-[Create Item](#_vn258s6nj78k) 75
+[Create Item](#_vn258s6nj78k) 
 
-[Request](#_1otxeyjnexcm) 75
+[Request](#_1otxeyjnexcm) 
 
-[Response](#_9r8fbbds8vr3) 76
+[Response](#_9r8fbbds8vr3) 
 
-[View Single Item](#_ew9fsl4phdo5) 77
+[View Single Item](#_ew9fsl4phdo5) 
 
-[Request](#_spguh7hjzy5x) 77
+[Request](#_spguh7hjzy5x) 
 
-[Response](#_3cghc3pay5o2) 78
+[Response](#_3cghc3pay5o2) 
 
-[View All Items](#_na6mgcnadfez) 79
+[View All Items](#_na6mgcnadfez) 
 
-[Request](#_fg3slkrgkdtt) 79
+[Request](#_fg3slkrgkdtt) 
 
-[Response](#_pm79yxkvn91) 79
+[Response](#_pm79yxkvn91) 
 
-[Get All Items of a Type](#_r4pxt7kjad30) 80
+[Get All Items of a Type](#_r4pxt7kjad30) 
 
-[Request](#_i7xix3rwwxgp) 80
+[Request](#_i7xix3rwwxgp) 
 
-[Response](#_atkzn33ipyol) 81
+[Response](#_atkzn33ipyol) 
 
-[Delete Item](#_3gbsmhrqkze0) 82
+[Delete Item](#_3gbsmhrqkze0) 
 
-[Request](#_aittxkfkk46z) 82
+[Request](#_aittxkfkk46z) 
 
-[Response](#_a3uzvquberuw) 82
+[Response](#_a3uzvquberuw) 
 
-**[Solicitations Routes](#_1sm2yr9rk0fk) 83**
+**[Solicitations Routes](#_1sm2yr9rk0fk)**
 
-[Create Solicitation](#_58ev2z4eybv2) 83
+[Create Solicitation](#_58ev2z4eybv2) 
 
-[Request](#_45xq3s7hixzp) 83
+[Request](#_45xq3s7hixzp) 
 
-[Response](#_hry994bun9y9) 85
+[Response](#_hry994bun9y9) 
 
-[View a Solicitation](#_3z9ge2hgrks5) 86
+[View a Solicitation](#_3z9ge2hgrks5) 
 
-[Request](#_uf6ceh10t00y) 86
+[Request](#_uf6ceh10t00y) 
 
-[Response](#_wsgfr7pac0im) 87
+[Response](#_wsgfr7pac0im) 
 
-[View All Solicitations](#_t3s4mwd8bhtl) 88
+[View All Solicitations](#_t3s4mwd8bhtl) 
 
-[Request](#_vza3dnhvrx8a) 88
+[Request](#_vza3dnhvrx8a) 
 
-[Response](#_yy33ouc8v3s4) 88
+[Response](#_yy33ouc8v3s4) 
 
-[View All Solicitations By a Seller](#_p33y1y6t563l) 90
+[View All Solicitations By a Seller](#_p33y1y6t563l) 
 
-[Request](#_qnf26r5cm2k9) 90
+[Request](#_qnf26r5cm2k9) 
 
-[Response](#_s7kvuy8k3tzy) 91
+[Response](#_s7kvuy8k3tzy) 
 
-[View All Solicitations Around a Set of Coordinates](#_hwwfbbhr0u5i) 92
+[View All Solicitations Around a Set of Coordinates](#_hwwfbbhr0u5i) 
 
-[Request](#_fb1upxnznyg1) 92
+[Request](#_fb1upxnznyg1) 
 
-[Response](#_zi587q7hu3) 93
+[Response](#_zi587q7hu3) 
 
-[View All Solicitations at an Address](#_xjivpeq4desl) 94
+[View All Solicitations at an Address](#_xjivpeq4desl) 
 
-[Request](#_wyim0u8rm33b) 94
+[Request](#_wyim0u8rm33b) 
 
-[Response](#_fzo54v9klc1t) 95
+[Response](#_fzo54v9klc1t) 
 
-[Update Solicitation](#_d5tf9egyo9cv) 97
+[Update Solicitation](#_d5tf9egyo9cv) 
 
-[Request](#_7zx0oue40b23) 97
+[Request](#_7zx0oue40b23) 
 
-[Response](#_s4y5wlcdpdmf) 98
+[Response](#_s4y5wlcdpdmf) 
 
-[Add Image to Solicitation](#_djiru582e4l2) 99
+[Add Image to Solicitation](#_djiru582e4l2) 
 
-[Request](#_924v14ijbp5) 99
+[Request](#_924v14ijbp5) 
 
-[Response](#_dmp94u5z9886) 99
+[Response](#_dmp94u5z9886) 
 
-[Delete Solicitation](#_ifn34sjakq4m) 100
+[Delete Solicitation](#_ifn34sjakq4m) 
 
-[Request](#_evbqp0oue7se) 100
+[Request](#_evbqp0oue7se) 
 
-[Response](#_nniao19aqtuj) 101
+[Response](#_nniao19aqtuj) 
 
-**[Contact Routes (Legacy Routes)](#_p30mvqee00j9) 102**
+**[Contact Routes (Legacy Routes)](#_p30mvqee00j9)**
 
-[Create Contact](#_b0fmn5gs6oj7) 102
+[Create Contact](#_b0fmn5gs6oj7) 
 
-[View a Contact](#_v3dmigrdj1lz) 102
+[View a Contact](#_v3dmigrdj1lz) 
 
-[View All Contacts](#_icn69mz3bxkw) 102
+[View All Contacts](#_icn69mz3bxkw) 
 
-[Update Contact](#_judo3x1cc7gu) 102
+[Update Contact](#_judo3x1cc7gu) 
 
-[Delete Contact](#_9n0wa6v3mdj1) 102
+[Delete Contact](#_9n0wa6v3mdj1)
 
 
 # Core Stack Overview
