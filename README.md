@@ -10,7 +10,7 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 # Table of Contents
 
-**[Capstone-Community-Bounty](#_rpl9strs7pg2)**
+**[Capstone-Community-Bounty](#Capstone-Community-Bounty)**
 
 **[Table of Contents](#_gufth0jmilcq)**
 
