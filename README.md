@@ -10,33 +10,33 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 # Table of Contents
 
-**[Capstone-Community-Bounty](#_rpl9strs7pg2) 1**
+**[Capstone-Community-Bounty](#_rpl9strs7pg2)**
 
-**[Table of Contents](#_gufth0jmilcq) 1**
+**[Table of Contents](#_gufth0jmilcq)**
 
-[Core Stack Overview](#_rcbdm2pk9pbg) **7**
+[Core Stack Overview](#_rcbdm2pk9pbg)
 
-[Deployment of Stack](#_a54nicw3bbal) **7**
+[Deployment of Stack](#_a54nicw3bbal)
 
-[Tools, External APIs, Libraries, and Auxiliary Systems](#_6ozg1dpv8d8s) **9**
+[Tools, External APIs, Libraries, and Auxiliary Systems](#_6ozg1dpv8d8s)
 
-[Azure](#_srzlwrq1nnvm) 9
+[Azure](#_srzlwrq1nnvm) 
 
-[Google Cloud](#_taue9zb266q2) 10
+[Google Cloud](#_taue9zb266q2) 
 
-[Auth0](#_5v2kj9meway6) 10
+[Auth0](#_5v2kj9meway6) 
 
-[Material UI and Reactstrap](#_jo3bko13a8bj) 10
+[Material UI and Reactstrap](#_jo3bko13a8bj) 
 
-[Esri](#_e9d86jrxaw4r) 11
+[Esri](#_e9d86jrxaw4r) 
 
-[Git and GitHub](#_9axi0y4ta0gg) 11
+[Git and GitHub](#_9axi0y4ta0gg) 
 
-**[Data Model](#_rsj1t094h4qr) 12**
+**[Data Model](#_rsj1t094h4qr) **
 
-[Collection: People](#_9tsd9tukcd5f) 12
+[Collection: People](#_9tsd9tukcd5f) 
 
-[Collection: Addresses](#_787j5s565vnz) 13
+[Collection: Addresses](#_787j5s565vnz) 
 
 [Collection: Contacts](#_vrxxlrfc32h) 13
 
