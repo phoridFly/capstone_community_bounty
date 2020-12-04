@@ -18,7 +18,7 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Deployment of Stack](#deployment-of-stack)
 
-[Tools, External APIs, Libraries, and Auxiliary Systems]
+[Tools, External APIs, Libraries, and Auxiliary Systems](#fake)
 
 [Azure](#azure) 
 
@@ -32,7 +32,7 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Git and GitHub](#git-and-gitHub) 
 
-**[Data Model](#_rsj1t094h4qr)**
+**[Data Model](#data-model)**
 
 [Collection: People](#_9tsd9tukcd5f) 
 
@@ -48,9 +48,9 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Collection: Items](#_lgs5em1tgb97) 
 
-**[API Specification](#_mv3no7w6243h)**
+**[API Specification](#api-specification)**
 
-**[People Routes](#_4gw2arade3ox)**
+**[People Routes](#people-routes)**
 
 [Create Person](#_w9lh0fpiwb54) 
 
@@ -64,13 +64,13 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Response](#_rzrnb82nt8bo) 
 
-[View Person](#_vtdzuvuy3mke) 
+[View Person](#view-person) 
 
 [Request](#_p1v0887n9lx6) 
 
 [Response](#_8dm8eihrivhk) 
 
-[View All People](#_rj04m6uqyn4f) 
+[View All People](#view-all-people) 
 
 [Request](#_q3sjdpjtxqof) 
 
@@ -94,7 +94,7 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Response](#_o31su6snggdb) 
 
-**[Transactions Routes](#_d8bpx3nse3ig)**
+**[Transactions Routes](#transactions-routes)**
 
 [Create a Transaction](#_jr7srqex2p0d) 
 
@@ -150,7 +150,7 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Response](#_tpqh4916y71m) 
 
-**[Addresses Routes](#_wzfu83dhlcgw)**
+**[Addresses Routes](#address-routes)**
 
 [Create an Address](#_s3z3bryp01ld) 
 
@@ -194,7 +194,7 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Response](#_p5b8dcow22m6) 
 
-**[Profiles Routes](#_qkzuag8hhxhf)**
+**[Profiles Routes](#profiles-routes)**
 
 [Create Profile](#_uq2up8ytau0x) 
 
@@ -250,7 +250,7 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Response](#_b38ra5lw79lp) 
 
-**[Items Routes](#_jp6lo731i8ml)**
+**[Items Routes](#items-routes)**
 
 [Create Item](#_vn258s6nj78k) 
 
@@ -282,7 +282,7 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Response](#_a3uzvquberuw) 
 
-**[Solicitations Routes](#_1sm2yr9rk0fk)**
+**[Solicitations Routes](#solicitations-routes)**
 
 [Create Solicitation](#_58ev2z4eybv2) 
 
