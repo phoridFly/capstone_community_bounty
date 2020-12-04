@@ -14,23 +14,23 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 **[Table of Contents](#_gufth0jmilcq)**
 
-[Core Stack Overview](#_rcbdm2pk9pbg)
+[Core Stack Overview](#Core Stack Overview)
 
-[Deployment of Stack](#_a54nicw3bbal)
+[Deployment of Stack](#Deployment of Stack)
 
-[Tools, External APIs, Libraries, and Auxiliary Systems](#_6ozg1dpv8d8s)
+[Tools, External APIs, Libraries, and Auxiliary Systems](#Tools, External APIs, Libraries, and Auxiliary Systems)
 
-[Azure](#_srzlwrq1nnvm) 
+[Azure](#Azure) 
 
-[Google Cloud](#_taue9zb266q2) 
+[Google Cloud](#Google Cloud) 
 
-[Auth0](#_5v2kj9meway6) 
+[Auth0](#Auth0) 
 
-[Material UI and Reactstrap](#_jo3bko13a8bj) 
+[Material UI and Reactstrap](#Material UI and Reactstrap) 
 
-[Esri](#_e9d86jrxaw4r) 
+[Esri](#Esri) 
 
-[Git and GitHub](#_9axi0y4ta0gg) 
+[Git and GitHub](#Git and GitHub) 
 
 **[Data Model](#_rsj1t094h4qr)**
 
