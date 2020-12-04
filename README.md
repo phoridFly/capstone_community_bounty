@@ -10,27 +10,27 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 # Table of Contents
 
-**[Capstone-Community-Bounty](#Capstone-Community-Bounty)**
+**[Capstone-Community-Bounty](#capstone-community-bounty)**
 
 **[Table of Contents](#_gufth0jmilcq)**
 
-[Core Stack Overview](#Core Stack Overview)
+[Core Stack Overview](#core-stack-overview)
 
-[Deployment of Stack](#Deployment of Stack)
+[Deployment of Stack](#deployment-of-stack)
 
-[Tools, External APIs, Libraries, and Auxiliary Systems](#Tools, External APIs, Libraries, and Auxiliary Systems)
+[Tools, External APIs, Libraries, and Auxiliary Systems]
 
-[Azure](#Azure) 
+[Azure](#azure) 
 
-[Google Cloud](#Google Cloud) 
+[Google Cloud](#google-cloud) 
 
-[Auth0](#Auth0) 
+[Auth0](#auth0) 
 
-[Material UI and Reactstrap](#Material UI and Reactstrap) 
+[Material UI and Reactstrap](#material-ui-and-reactstrap) 
 
-[Esri](#Esri) 
+[Esri](#esri) 
 
-[Git and GitHub](#Git and GitHub) 
+[Git and GitHub](#git-and-gitHub) 
 
 **[Data Model](#_rsj1t094h4qr)**
 
