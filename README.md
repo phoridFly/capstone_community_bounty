@@ -14,8 +14,6 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 **[Table of Contents](#_gufth0jmilcq) 1**
 
-**[Change Log](#_los84yhj5dtw) 6**
-
 [Core Stack Overview](#_rcbdm2pk9pbg) **7**
 
 [Deployment of Stack](#_a54nicw3bbal) **7**
@@ -352,26 +350,6 @@ Base URL for endpoints: [https://community-bounty.azurewebsites.net/api](https:/
 
 [Delete Contact](#_9n0wa6v3mdj1) 102
 
-# Change Log
-
-| **SECTION** | **CHANGE** | **DATE** |
-| --- | --- | --- |
-| Entire | Initialized document and began setting up format -JMH | Sept 16, 2020 |
-| POST/users Collection: Address
-
- | Picture added. Added attributes for state, zip, country. Added more details.
- | Sept 17, 2020 |
-| Entire GET/user/:id | Changed heading types to make ToC easier to read Added request and response details -JMH | Sept 18, 2020 |
-| Data Model People People Routes | Updated to currently accepted attributes Updated routes, parameters, responses for GET all people, GET a person, create a person with POST, and DELETE by people\_id -JMH | Oct, 14, 2020 |
-| People Routes | Updated the GET all people, GET single person, POST, and DELETE -JMH | Oct, 18, 2020 |
-| Transaction Routes
- Data Model | Updated the GET all transactions, GET single transaction, POST and DELETE Updated to currently accepted attributes -JMH | Oct 18, 2020 |
-| Transaction Routes | Updates to PATCH, create message, delete message -JMH | Oct 23, 2020 |
-| Data Models | Updates to all the Data Models -JMH | Nov 29, 2020 |
-| All Routes | Checked for undocumented routes that have been implemented in API (address, contacts, items, people) Put headings for each undocumented route and added comments. Fixed formatting in the table of contents where links were bold by accident and links were going to the wrong place in the document. -JMH | Nov 29, 2020 |
-| People Routes, Transactions Routes, and Address Routes | Updated People, Transactions, and Address routes -JMH | Dec 1, 2020 |
-|
- | Updates to Profile, Solicitations, Contacts -JMH | Dec 3, 2020 |
 
 # Core Stack Overview
 
